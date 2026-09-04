@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Shubham | Full-Stack Engineer",
-  description: "Portfolio of Shubham, a full-stack engineer and AI/ML enthusiast.",
+  title: "Shivam",
+  description: "Portfolio of Shivam, a full-stack engineer and AI/ML enthusiast.",
 };
 
 export default function RootLayout({
